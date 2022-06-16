@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshavyas93&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshavyas93" /> </p>
 
-- 🔭 I’m currently working on LinkedIn [Data processing pipeline](https://github.com/PratikshaVyas93/Data-Collection-Pipeline)
+- 🔭 I’m currently working on [LinkedIn Data Collection pipeline](https://github.com/PratikshaVyas93/Data-Collection-Pipeline)
 
 - 🌱 I’m currently learning **WebScraping using selenium**
 
