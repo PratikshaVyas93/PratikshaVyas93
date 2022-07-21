@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshavyas93&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshavyas93" /> </p>
 
-- 🔭 I’m currently working on [LinkedIn Data Collection pipeline](https://github.com/PratikshaVyas93/Data-Collection-Pipeline)
+- 🔭 I’m currently working on [John's Lewis Data Collection pipeline](https://github.com/PratikshaVyas93/Datacollection_pipeline_johnlewis)
 
-- 🌱 I’m currently learning **WebScraping using selenium**
+- 🌱 I’m currently learning **Unit Testing using unittest module in python**
 
 - 📫 How to reach me send me message on LinkedIn or **pratikshavyas93@gmail.com**
 
