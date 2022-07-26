@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [John's Lewis Data Collection pipeline](https://github.com/PratikshaVyas93/Datacollection_pipeline_johnlewis)
 
-- 🌱 I’m currently learning **Unit Testing using unittest module in python**
+- 🌱 I’m currently learning **boto3(SDK) python module**
 
 - 📫 How to reach me send me message on LinkedIn or **pratikshavyas93@gmail.com**
 
