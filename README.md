@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **SQL setup PostgreSQL**
 
+- 👨‍💻 All of my projects are available at https://pratikshavyas93.github.io
+
 - 📫 How to reach me send me message on LinkedIn or **pratikshavyas93@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
