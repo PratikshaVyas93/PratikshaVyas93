@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [John's Lewis Data Collection pipeline](https://github.com/PratikshaVyas93/Datacollection_pipeline_johnlewis)
 
-- 🌱 I’m currently learning **SQL setup PostgreSQL**
+- 🌱 I’m currently learning **Promethues**
 
 - 👨‍💻 All of my projects are available at https://pratikshavyas93.github.io
 
