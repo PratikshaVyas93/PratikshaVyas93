@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikshavyas93&label=Profile%20views&color=0e75b6&style=flat" alt="pratikshavyas93" /> </p>
 
-- 🔭 I’m currently working on [John's Lewis Data Collection pipeline](https://github.com/PratikshaVyas93/Datacollection_pipeline_johnlewis)
+- 🔭 I’m currently working on [Pinterest-Data-Pipeline](https://github.com/PratikshaVyas93/pinterest-data-processing-pipeline565)
 
-- 🌱 I’m currently learning **Promethues**
+- 🌱 I’m currently learning **Data ingestion using kafka**
 
 - 👨‍💻 All of my projects are available at https://pratikshavyas93.github.io
 
