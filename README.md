@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Pinterest-Data-Pipeline](https://github.com/PratikshaVyas93/pinterest-data-processing-pipeline565)
 
-- 🌱 I’m currently learning **Data ingestion using kafka**
+- 🌱 I’m currently learning **NoSQL Cassandra for long term data storage**
 
 - 👨‍💻 All of my projects are available at https://pratikshavyas93.github.io
 
